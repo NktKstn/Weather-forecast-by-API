@@ -1,0 +1,30 @@
+select {
+    background-color: white;
+
+}
+.weather-forecast {
+    text-align: center;
+    margin-top: 50px;
+    font-family: "Times New Roman";
+    font-size: 50px;
+    text-shadow: 1px 1px 1px black,
+                 3px 3px 3px  black,
+                 3px 3px 3px  black;
+}
+.container {
+    background-color: azure;
+    margin: auto;
+    box-shadow: 0 0 5px;
+    border-radius: 25px;
+}
+
+.package-name {
+    background-color: seashell;
+    text-shadow: 1px 1px 1px black,
+    1px 1px 1px  black;
+    font-size: 30px;
+}
+.text-center {
+    text-align: center;
+}
+
